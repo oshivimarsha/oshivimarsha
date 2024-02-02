@@ -1,3 +1,5 @@
+![logo](https://github.com/oshivimarsha/oshivimarsha/blob/main/image.png)
+
 <h1 align="center">Hi 👋, I'm Oshi Vimarsha</h1>
 <h3 align="center">A developer in training from Sri Lanka</h3>
 
